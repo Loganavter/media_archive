@@ -18,9 +18,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="8"
-     inkscape:cx="94.5625"
-     inkscape:cy="71.875"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="51.707183"
+     inkscape:cy="99.171726"
      inkscape:window-width="1920"
      inkscape:window-height="995"
      inkscape:window-x="0"
@@ -125,6 +125,11 @@
        height="74"
        rx="7"
        ry="7" /></defs><!-- Вся структура рамки и прямоугольников остается оригинальной --><use
+     href="#newWhiteCenterPath"
+     fill="#ffffff"
+     id="use19"
+     transform="matrix(0.97725856,0,0,0.99025098,2.068451,1.8597871)"
+     style="stroke-width:0.999474;stroke-dasharray:none" /><use
      href="#frameCenterline"
      stroke="#a0a4a8"
      stroke-width="8"
@@ -138,10 +143,6 @@
      id="use17"
      transform="matrix(1.0012377,0,0,0.99995674,-0.00444123,0.00324471)"
      style="stroke-linejoin:miter" /><use
-     href="#newWhiteCenterPath"
-     fill="#ffffff"
-     id="use19"
-     transform="matrix(0.91969888,0,0,0.91964003,6.022317,6.0262461)" /><use
      href="#rect1Shape"
      fill="#ffcdd2"
      opacity="0.9"
